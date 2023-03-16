@@ -21,7 +21,6 @@
 - /s or /search command to search
 - Then just click buttons to select anime and get links
 > Demo : [@Anime_Search_xBot](https://t.me/Anime_Search_xBot)
-- /stats To get stats of website
 
 <hr>
 
